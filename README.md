@@ -12,11 +12,11 @@ I felt like I did well considering the length of this course and my experience I
 
 Where could you improve?
 
-My biggest issue through out this course was understanding how everything functioned with the timers, GPIO, and UARTs. I just knew what functions to call for what from previous milestones, but I trouble understanding exactly how they worked.
+My biggest issue through out this course was understanding how everything functioned with the timers, GPIO, and UARTs mainly because I didn't truly understand exactly how they worked.
 
 What tools and/or resources are you adding to your support network?
 
-This was my first time ever working with an embedded system. I really enjoyed working with the Code Composer IDE, as someone who has experience with Eclipse, it was super easy to learn. Then, the biggest resource that helped me was our ZyBooks book and TI pdfs.
+This was my first time ever working with an embedded system. I really enjoyed working with the Code Composer IDE and it was fun to learn. The biggest resource that helped me was our ZyBooks book and TI pdfs.
 
 What skills from this project will be particularly transferable to other projects and/or course work?
 
